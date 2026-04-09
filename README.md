@@ -15,4 +15,4 @@
 
 <li/>Language: TypeScript</li>
 
-Styling: CSS/SCSS
+<li>Styling: CSS</li>
