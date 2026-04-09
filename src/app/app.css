@@ -1,0 +1,48 @@
+.main {
+    text-align: center;
+    width: 400px;
+    height: 100vh;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+button {
+    cursor: pointer;
+    color: #fff;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+
+.reset {
+    background-color: hsl(0, 90%, 60%);
+    padding: 10px;
+    padding-inline: 20px;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.incbtn {
+    padding: 10px;
+    background-color: hsl(120, 90%, 35%);
+    padding-inline: 20px;
+    font-size: 20px;
+    border-radius: 8px;
+}
+
+.decbtn {
+    background-color: hsl(240, 90%, 60%);
+    padding: 10px;
+    padding-inline: 20px;
+    font-size: 20px;
+    border-radius: 8px;
+}
