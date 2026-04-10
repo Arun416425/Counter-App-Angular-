@@ -2,7 +2,7 @@
 <p>A simple, responsive Counter Application built using Angular. This project serves as a foundational example of component-based architecture, state management, and event handling within the Angular framework.</p>
 
 ## 🚀 Features
-<li>Increment: Increase the counter value by 1.</li>
+<li>Increment: Increase the counter value by 1</li>
 
 <li>Decrement: Decrease the counter value by 1.</li>
 
