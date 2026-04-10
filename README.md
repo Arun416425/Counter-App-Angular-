@@ -8,7 +8,7 @@
 
 <li>Reset: Quickly reset the counter to zero</li>
 
-<li>Responsive UI: Designed to look great on any device.</li>
+<li>Responsive UI: Designed to look great on any device</li>
 
 ## 🛠 Tech Stack
 <li>Framework: Angular</li>
