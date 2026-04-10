@@ -4,7 +4,7 @@
 ## 🚀 Features
 <li>Increment: Increase the counter value by 1</li>
 
-<li>Decrement: Decrease the counter value by 1.</li>
+<li>Decrement: Decrease the counter value by 1</li>
 
 <li>Reset: Quickly reset the counter to zero.</li>
 
