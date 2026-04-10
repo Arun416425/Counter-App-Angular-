@@ -6,7 +6,7 @@
 
 <li>Decrement: Decrease the counter value by 1</li>
 
-<li>Reset: Quickly reset the counter to zero</li>
+<li>Reset Quickly reset the counter to zero</li>
 
 <li>Responsive UI: Designed to look great on any device</li>
 
